@@ -1,4 +1,4 @@
-dirt-biker-racing
+dirt-bike-racing
 ================
 
 A 3D Dirt Bike Racing game written in C++ using OpenGL
